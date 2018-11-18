@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: BusinessServicesMockSpringContextTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.569 s <<< FAILURE! - in BusinessServicesMockSpringContextTest
+testFindTheGreatestFromAllData(BusinessServicesMockSpringContextTest)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<24>
+	at BusinessServicesMockSpringContextTest.testFindTheGreatestFromAllData(BusinessServicesMockSpringContextTest.java:30)
+
